@@ -19,5 +19,5 @@ To run this program, you need:
 1. **Clone the Repository** (or copy the code):
 
    ```bash
-   git clone https://github.com/RyanKatayi/mandelbrot-ascii.git
+   git clone https://github.com/RyanKatayi/mandelbott.git
    cd mandelbott
